@@ -1,0 +1,15 @@
+.marca {
+    width: 211px;
+    height: 211px;
+    border: 1px solid ;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.marca img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+}
