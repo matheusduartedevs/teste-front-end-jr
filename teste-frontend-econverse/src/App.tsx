@@ -3,6 +3,7 @@ import Categorias from "./components/Categorias/Categorias"
 import Header from "./components/Header/Header"
 import Parceiros from "./components/Parceiros/Parceiros"
 import Produtos from "./components/Produtos/Produtos"
+import ProdutosRelacionados from "./components/ProdutosRelacionados/ProdutosRelacionados"
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Categorias />
       <Produtos />
       <Parceiros />
+      <ProdutosRelacionados />
     </>
   )
 }

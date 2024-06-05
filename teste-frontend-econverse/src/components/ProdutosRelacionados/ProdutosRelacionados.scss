@@ -1,0 +1,16 @@
+.container {
+    margin-top: 40px;
+}
+
+.section-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.produtos {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
